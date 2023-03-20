@@ -1,2 +1,3 @@
 # capstoneproject
-little lemon caps stone project for Meta certification
+little lemon caps stone project for frontend Meta certification
+
